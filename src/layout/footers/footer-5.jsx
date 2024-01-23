@@ -26,11 +26,9 @@ const footer_content = {
             title: "Navigation",
             delay: ".7s",
             links: [
-                {name: "Damo page", link: "#"},
-                {name: "About", link: "/about"},
+                {name: "Home", link: "#"},
                 {name: "Pricing Plan", link: "/price"},
                 {name: "Integrations", link: "/integrations"},
-                {name: "Blog", link: "/blog"},
                 {name: "Contact", link: "/contact"},
             ]
         },
@@ -45,8 +43,6 @@ const footer_content = {
                 {name: "Team", link: "/team"},
                 {name: "Careers", link: "#"},
                 {name: "Login", link: "/login"},
-                {name: "Register", link: "/register"},
-                {name: "404 Not found", link: "/404"},
             ]
         },
 
