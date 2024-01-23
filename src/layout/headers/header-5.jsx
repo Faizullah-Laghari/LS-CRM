@@ -22,7 +22,7 @@ const HeaderFive = () => {
                               <Link href="/"><Image src={logo} alt="theme-pure" /></Link>
                            </div>
                         </div>
-                        <div className="col-xxl-8 col-xl-7 col-lg-8 d-none d-lg-block">
+                        <div className="col-xxl-8 col-xl-7 col-lg-8 text-center d-none d-lg-block">
                            <div className="header-bottom__main-menu header-bottom__main-menu-5 text-center">
                               <nav id="mobile-menu">
                                  <NavMenu /> 

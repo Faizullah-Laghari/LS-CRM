@@ -49,7 +49,7 @@ export default SocialLinks;
 
 
 const copy_right_text = {
-  copy_right: <>Design By Logicsaint – {new Date().getFullYear()}</>,
+  copy_right: <>Design Mekko Digital – {new Date().getFullYear()}</>,
 }
 const {copy_right}  = copy_right_text
 

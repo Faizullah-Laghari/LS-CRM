@@ -35,7 +35,7 @@ const HeaderFour = ({style_error}) => {
                               }
                            </div>
                         </div>
-                        <div className="col-xxl-7 col-xl-7 col-lg-7 d-none d-lg-block">
+                        <div className="col-xxl-7 col-xl-7 col-lg-7 text-center d-none d-lg-block">
                            <div className="header-bottom__main-menu header-bottom__main-menu-4">
                               <nav id="mobile-menu">
                                  <NavMenu /> 

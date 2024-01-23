@@ -31,7 +31,7 @@ const HeaderTwo = () => {
                               <Link className="black-logo" href="/"><Image src={black_logo} alt="theme-pure" /></Link>
                            </div>
                         </div>
-                        <div className="col-xl-7 col-lg-7 d-none d-lg-block">
+                        <div className="col-xl-7 col-lg-7 d-none text-center d-lg-block">
                            <div className="tp-header-2__main-menu text-center">
                               <nav id="mobile-menu">
                                  <NavMenu /> 
